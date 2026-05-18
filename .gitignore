@@ -1,0 +1,7 @@
+*.bak
+*.bak2
+backup_*/
+data_inline.js
+data_patent_final.json
+data_xg_final.json
+.git/
